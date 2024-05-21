@@ -1,0 +1,9 @@
+2024-05-18 16:09:01,386 ERROR frappe New Exception collected in error log
+Site: localhost
+Form Dict: {'doc': '{"docstatus":0,"doctype":"Item Alternative","name":"new-item-alternative-msqijftzij","__islocal":1,"__unsaved":1,"owner":"nagam.svb@gmail.com","item_name":"Desktop PC","item_code":"Desktop PC"}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2024-05-18 16:12:01,594 ERROR frappe New Exception collected in error log
+Site: localhost
+Form Dict: {'doc': '{"docstatus":0,"doctype":"Item Alternative","name":"new-item-alternative-veegnnyvum","__islocal":1,"__unsaved":1,"owner":"nagam.svb@gmail.com","item_name":"Desktop PC","item_code":"Desktop PC","alternative_item_code":null}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2024-05-18 16:26:06,126 ERROR frappe New Exception collected in error log
+Site: localhost
+Form Dict: {'doc': '{"docstatus":0,"doctype":"Item Alternative","name":"new-item-alternative-lnhgmtdmhl","__islocal":1,"__unsaved":1,"owner":"nagam.svb@gmail.com","item_code":"deskpc-001","item_name":"Desktop PC"}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}

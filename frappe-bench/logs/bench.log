@@ -1,0 +1,98 @@
+2024-05-18 10:22:13,339 DEBUG cd frappe-bench && python3 -m venv env
+2024-05-18 10:22:52,966 DEBUG cd frappe-bench && /mnt/d/hippocloud/erp/manufacturing_of_erp/manufacturing/frappe-bench/env/bin/python -m pip install --quiet --upgrade pip
+2024-05-18 10:25:02,498 DEBUG cd frappe-bench && /mnt/d/hippocloud/erp/manufacturing_of_erp/manufacturing/frappe-bench/env/bin/python -m pip install --quiet wheel
+2024-05-18 10:25:14,699 LOG Getting frappe
+2024-05-18 10:25:14,699 DEBUG cd frappe-bench/apps && git clone https://github.com/frappe/frappe.git --branch version-15 --depth 1 --origin upstream
+2024-05-18 10:25:48,299 LOG Installing frappe
+2024-05-18 10:25:48,307 DEBUG cd /mnt/d/hippocloud/erp/manufacturing_of_erp/manufacturing/frappe-bench && /mnt/d/hippocloud/erp/manufacturing_of_erp/manufacturing/frappe-bench/env/bin/python -m pip install --quiet --upgrade -e /mnt/d/hippocloud/erp/manufacturing_of_erp/manufacturing/frappe-bench/apps/frappe 
+2024-05-18 10:35:00,654 DEBUG cd /mnt/d/hippocloud/erp/manufacturing_of_erp/manufacturing/frappe-bench/apps/frappe && yarn install --check-files
+2024-05-18 10:37:46,510 WARNING restart failed: Couldn't find supervisorctl in PATH
+2024-05-18 10:37:46,511 DEBUG cd frappe-bench && bench build
+2024-05-18 10:37:46,813 INFO /usr/local/bin/bench build
+2024-05-18 10:39:21,288 LOG setting up backups
+2024-05-18 10:39:21,346 LOG backups were set up
+2024-05-18 10:39:21,346 INFO Bench frappe-bench initialized
+2024-05-18 10:39:21,638 INFO A newer version of bench is available: 5.22.3 → 5.22.6
+2024-05-18 10:42:47,812 INFO /usr/local/bin/bench new-site manufacture.local
+2024-05-18 10:45:51,684 INFO /usr/local/bin/bench start
+2024-05-18 10:45:52,067 INFO /usr/local/bin/bench schedule
+2024-05-18 10:45:52,067 INFO /usr/local/bin/bench serve --port 8000
+2024-05-18 10:45:52,070 INFO /usr/local/bin/bench watch
+2024-05-18 10:45:52,071 INFO /usr/local/bin/bench worker
+2024-05-18 11:57:54,466 INFO /usr/local/bin/bench --site manufacture.local add-to-hosts
+2024-05-18 11:58:20,804 INFO /usr/local/bin/bench start
+2024-05-18 11:58:21,570 INFO /usr/local/bin/bench worker
+2024-05-18 11:58:21,570 INFO /usr/local/bin/bench watch
+2024-05-18 11:58:21,570 INFO /usr/local/bin/bench schedule
+2024-05-18 11:58:21,647 INFO /usr/local/bin/bench serve --port 8000
+2024-05-18 12:00:02,382 INFO /usr/local/bin/bench --verbose --site all backup
+2024-05-18 12:02:17,187 INFO /usr/local/bin/bench --site manufacture.local migrate
+2024-05-18 12:15:15,233 INFO /usr/local/bin/bench start
+2024-05-18 12:15:15,824 INFO /usr/local/bin/bench serve --port 8000
+2024-05-18 12:15:15,891 INFO /usr/local/bin/bench watch
+2024-05-18 12:15:15,891 INFO /usr/local/bin/bench schedule
+2024-05-18 12:15:15,891 INFO /usr/local/bin/bench worker
+2024-05-18 14:09:06,579 INFO /usr/local/bin/bench start
+2024-05-18 14:09:07,602 INFO /usr/local/bin/bench schedule
+2024-05-18 14:09:07,606 INFO /usr/local/bin/bench serve --port 8000
+2024-05-18 14:09:07,606 INFO /usr/local/bin/bench watch
+2024-05-18 14:09:07,613 INFO /usr/local/bin/bench worker
+2024-05-18 14:09:36,572 INFO /usr/local/bin/bench start
+2024-05-18 14:09:37,228 INFO /usr/local/bin/bench serve --port 8000
+2024-05-18 14:09:37,245 INFO /usr/local/bin/bench schedule
+2024-05-18 14:09:37,245 INFO /usr/local/bin/bench watch
+2024-05-18 14:09:37,300 INFO /usr/local/bin/bench worker
+2024-05-18 14:14:05,992 INFO /usr/local/bin/bench new-site localhost
+2024-05-18 14:16:02,185 INFO /usr/local/bin/bench start
+2024-05-18 14:16:02,518 INFO /usr/local/bin/bench schedule
+2024-05-18 14:16:02,518 INFO /usr/local/bin/bench watch
+2024-05-18 14:16:02,519 INFO /usr/local/bin/bench serve --port 8000
+2024-05-18 14:16:02,530 INFO /usr/local/bin/bench worker
+2024-05-18 14:25:10,990 INFO /usr/local/bin/bench get-app https://github.com/frappe/erpnext --branch version-15
+2024-05-18 14:25:11,068 LOG Getting erpnext
+2024-05-18 14:25:11,068 DEBUG cd ./apps && git clone https://github.com/frappe/erpnext --branch version-15 --depth 1 --origin upstream
+2024-05-18 14:25:54,952 LOG Installing erpnext
+2024-05-18 14:25:54,962 DEBUG cd /mnt/d/hippocloud/erp/manufacturing_of_erp/manufacturing/frappe-bench && /mnt/d/hippocloud/erp/manufacturing_of_erp/manufacturing/frappe-bench/env/bin/python -m pip install --quiet --upgrade -e /mnt/d/hippocloud/erp/manufacturing_of_erp/manufacturing/frappe-bench/apps/erpnext 
+2024-05-18 14:29:05,470 DEBUG cd /mnt/d/hippocloud/erp/manufacturing_of_erp/manufacturing/frappe-bench/apps/erpnext && yarn install --check-files
+2024-05-18 14:29:06,772 DEBUG bench build --app erpnext
+2024-05-18 14:29:06,982 INFO /usr/local/bin/bench build --app erpnext
+2024-05-18 14:29:36,395 WARNING restart failed: Couldn't find supervisorctl in PATH
+2024-05-18 14:29:36,831 INFO A newer version of bench is available: 5.22.3 → 5.22.6
+2024-05-18 14:30:18,774 INFO /usr/local/bin/bench --site localhost install-app erpnext
+2024-05-18 14:32:44,143 INFO /usr/local/bin/bench --site localhost reinstall-app erpnext
+2024-05-18 14:33:12,677 INFO /usr/local/bin/bench --site localhost reinstall erpnext
+2024-05-18 14:33:42,620 INFO /usr/local/bin/bench --site localhost reinstall
+2024-05-18 14:35:31,612 INFO /usr/local/bin/bench --site localhost install-app erpnext
+2024-05-18 14:39:42,224 INFO /usr/local/bin/bench start
+2024-05-18 14:39:42,630 INFO /usr/local/bin/bench watch
+2024-05-18 14:39:42,630 INFO /usr/local/bin/bench serve --port 8000
+2024-05-18 14:39:42,635 INFO /usr/local/bin/bench schedule
+2024-05-18 14:39:42,648 INFO /usr/local/bin/bench worker
+2024-05-18 16:59:08,395 INFO /usr/local/bin/bench start
+2024-05-18 16:59:09,068 INFO /usr/local/bin/bench serve --port 8000
+2024-05-18 16:59:09,102 INFO /usr/local/bin/bench schedule
+2024-05-18 16:59:09,107 INFO /usr/local/bin/bench worker
+2024-05-18 16:59:09,107 INFO /usr/local/bin/bench watch
+2024-05-18 18:00:02,134 INFO /usr/local/bin/bench --verbose --site all backup
+2024-05-20 11:48:20,981 INFO /usr/local/bin/bench start
+2024-05-20 11:48:21,420 INFO /usr/local/bin/bench serve --port 8000
+2024-05-20 11:48:21,420 INFO /usr/local/bin/bench watch
+2024-05-20 11:48:21,435 INFO /usr/local/bin/bench worker
+2024-05-20 11:48:21,447 INFO /usr/local/bin/bench schedule
+2024-05-20 11:48:35,889 INFO /usr/local/bin/bench start
+2024-05-20 11:48:36,300 INFO /usr/local/bin/bench serve --port 8000
+2024-05-20 11:48:36,300 INFO /usr/local/bin/bench watch
+2024-05-20 11:48:36,311 INFO /usr/local/bin/bench schedule
+2024-05-20 11:48:36,332 INFO /usr/local/bin/bench worker
+2024-05-20 12:00:01,811 INFO /usr/local/bin/bench --verbose --site all backup
+2024-05-20 14:18:55,577 INFO /usr/local/bin/bench start
+2024-05-20 14:18:56,699 INFO /usr/local/bin/bench schedule
+2024-05-20 14:18:56,761 INFO /usr/local/bin/bench serve --port 8000
+2024-05-20 14:18:56,761 INFO /usr/local/bin/bench worker
+2024-05-20 14:18:56,806 INFO /usr/local/bin/bench watch
+2024-05-20 14:19:17,767 INFO /usr/local/bin/bench start
+2024-05-20 14:19:18,884 INFO /usr/local/bin/bench serve --port 8000
+2024-05-20 14:19:18,886 INFO /usr/local/bin/bench worker
+2024-05-20 14:19:18,886 INFO /usr/local/bin/bench watch
+2024-05-20 14:19:18,900 INFO /usr/local/bin/bench schedule
+2024-05-20 18:00:02,321 INFO /usr/local/bin/bench --verbose --site all backup

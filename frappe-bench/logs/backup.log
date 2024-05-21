@@ -1,0 +1,50 @@
+set -o pipefail; /usr/bin/mariadb-dump --user=_c4cba48cab6a79e2 --host=127.0.0.1 --port=3306 --password=********** --single-transaction --quick --lock-tables=false _c4cba48cab6a79e2 | /usr/bin/gzip >> ./manufacture.local/private/backups/20240518_120012-manufacture_local-database.sql.gz
+
+Backup Summary for manufacture.local at 2024-05-18 12:00:35.789633
+Config  : ./manufacture.local/private/backups/20240518_120012-manufacture_local-site_config_backup.json 94.0B
+Database: ./manufacture.local/private/backups/20240518_120012-manufacture_local-database.sql.gz         216.0KiB
+Backup for Site manufacture.local has been successfully completed
+set -o pipefail; /usr/bin/mariadb-dump --user=_37931db34a660467 --host=127.0.0.1 --port=3306 --password=********** --single-transaction --quick --lock-tables=false _37931db34a660467 | /usr/bin/gzip >> ./localhost/private/backups/20240518_180009-localhost-database.sql.gz
+
+Backup Summary for localhost at 2024-05-18 18:00:23.264520
+Config  : ./localhost/private/backups/20240518_180009-localhost-site_config_backup.json 94.0B
+Database: ./localhost/private/backups/20240518_180009-localhost-database.sql.gz         803.5KiB
+Backup for Site localhost has been successfully completed
+File ./manufacture.local/private/backups/20240518_120012-manufacture_local-database.sql.gz is recent
+File ./manufacture.local/private/backups/20240518_120012-manufacture_local-site_config_backup.json is recent
+set -o pipefail; /usr/bin/mariadb-dump --user=_c4cba48cab6a79e2 --host=127.0.0.1 --port=3306 --password=********** --single-transaction --quick --lock-tables=false _c4cba48cab6a79e2 | /usr/bin/gzip >> ./manufacture.local/private/backups/20240518_180024-manufacture_local-database.sql.gz
+
+Backup Summary for manufacture.local at 2024-05-18 18:00:26.385551
+Config  : ./manufacture.local/private/backups/20240518_180024-manufacture_local-site_config_backup.json 94.0B
+Database: ./manufacture.local/private/backups/20240518_180024-manufacture_local-database.sql.gz         216.3KiB
+Backup for Site manufacture.local has been successfully completed
+set -o pipefail; /usr/bin/mariadb-dump --user=_37931db34a660467 --host=127.0.0.1 --port=3306 --password=********** --single-transaction --quick --lock-tables=false _37931db34a660467 | /usr/bin/gzip >> ./localhost/private/backups/20240520_120018-localhost-database.sql.gz
+
+Backup Summary for localhost at 2024-05-20 12:00:49.937583
+Config  : ./localhost/private/backups/20240520_120018-localhost-site_config_backup.json 94.0B
+Database: ./localhost/private/backups/20240520_120018-localhost-database.sql.gz         806.8KiB
+Backup for Site localhost has been successfully completed
+File ./manufacture.local/private/backups/20240518_120012-manufacture_local-database.sql.gz is older than 24 hours
+File ./manufacture.local/private/backups/20240518_120012-manufacture_local-site_config_backup.json is older than 24 hours
+File ./manufacture.local/private/backups/20240518_180024-manufacture_local-database.sql.gz is older than 24 hours
+File ./manufacture.local/private/backups/20240518_180024-manufacture_local-site_config_backup.json is older than 24 hours
+set -o pipefail; /usr/bin/mariadb-dump --user=_c4cba48cab6a79e2 --host=127.0.0.1 --port=3306 --password=********** --single-transaction --quick --lock-tables=false _c4cba48cab6a79e2 | /usr/bin/gzip >> ./manufacture.local/private/backups/20240520_120053-manufacture_local-database.sql.gz
+
+Backup Summary for manufacture.local at 2024-05-20 12:00:57.173815
+Config  : ./manufacture.local/private/backups/20240520_120053-manufacture_local-site_config_backup.json 94.0B
+Database: ./manufacture.local/private/backups/20240520_120053-manufacture_local-database.sql.gz         216.3KiB
+Backup for Site manufacture.local has been successfully completed
+set -o pipefail; /usr/bin/mariadb-dump --user=_37931db34a660467 --host=127.0.0.1 --port=3306 --password=********** --single-transaction --quick --lock-tables=false _37931db34a660467 | /usr/bin/gzip >> ./localhost/private/backups/20240520_180009-localhost-database.sql.gz
+
+Backup Summary for localhost at 2024-05-20 18:00:21.578938
+Config  : ./localhost/private/backups/20240520_180009-localhost-site_config_backup.json 94.0B
+Database: ./localhost/private/backups/20240520_180009-localhost-database.sql.gz         819.9KiB
+Backup for Site localhost has been successfully completed
+File ./manufacture.local/private/backups/20240520_120053-manufacture_local-database.sql.gz is recent
+File ./manufacture.local/private/backups/20240520_120053-manufacture_local-site_config_backup.json is recent
+set -o pipefail; /usr/bin/mariadb-dump --user=_c4cba48cab6a79e2 --host=127.0.0.1 --port=3306 --password=********** --single-transaction --quick --lock-tables=false _c4cba48cab6a79e2 | /usr/bin/gzip >> ./manufacture.local/private/backups/20240520_180022-manufacture_local-database.sql.gz
+
+Backup Summary for manufacture.local at 2024-05-20 18:00:24.330811
+Config  : ./manufacture.local/private/backups/20240520_180022-manufacture_local-site_config_backup.json 94.0B
+Database: ./manufacture.local/private/backups/20240520_180022-manufacture_local-database.sql.gz         216.3KiB
+Backup for Site manufacture.local has been successfully completed
