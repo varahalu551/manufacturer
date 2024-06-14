@@ -96,3 +96,216 @@
 2024-05-20 14:19:18,886 INFO /usr/local/bin/bench watch
 2024-05-20 14:19:18,900 INFO /usr/local/bin/bench schedule
 2024-05-20 18:00:02,321 INFO /usr/local/bin/bench --verbose --site all backup
+2024-05-21 12:00:02,026 INFO /usr/local/bin/bench --verbose --site all backup
+2024-05-21 14:36:26,344 INFO /usr/local/bin/bench start
+2024-05-21 14:36:28,164 INFO /usr/local/bin/bench schedule
+2024-05-21 14:36:28,165 INFO /usr/local/bin/bench serve --port 8000
+2024-05-21 14:36:28,170 INFO /usr/local/bin/bench watch
+2024-05-21 14:36:28,182 INFO /usr/local/bin/bench worker
+2024-05-21 15:31:44,111 INFO /usr/local/bin/bench start
+2024-05-21 15:31:44,483 INFO /usr/local/bin/bench watch
+2024-05-21 15:31:44,486 INFO /usr/local/bin/bench serve --port 8000
+2024-05-21 15:31:44,489 INFO /usr/local/bin/bench schedule
+2024-05-21 15:31:44,535 INFO /usr/local/bin/bench worker
+2024-05-21 15:33:05,622 INFO /usr/local/bin/bench start
+2024-05-21 15:33:05,943 INFO /usr/local/bin/bench watch
+2024-05-21 15:33:05,947 INFO /usr/local/bin/bench worker
+2024-05-21 15:33:05,949 INFO /usr/local/bin/bench serve --port 8000
+2024-05-21 15:33:05,967 INFO /usr/local/bin/bench schedule
+2024-05-21 18:00:02,196 INFO /usr/local/bin/bench --verbose --site all backup
+2024-05-22 12:00:01,633 INFO /usr/local/bin/bench --verbose --site all backup
+2024-05-22 18:00:01,805 INFO /usr/local/bin/bench --verbose --site all backup
+2024-05-23 14:38:41,963 INFO /usr/local/bin/bench start
+2024-05-23 14:38:43,229 INFO /usr/local/bin/bench watch
+2024-05-23 14:38:43,229 INFO /usr/local/bin/bench serve --port 8000
+2024-05-23 14:38:43,230 INFO /usr/local/bin/bench schedule
+2024-05-23 14:38:43,253 INFO /usr/local/bin/bench worker
+2024-05-23 14:39:07,036 INFO /usr/local/bin/bench start
+2024-05-23 14:39:07,984 INFO /usr/local/bin/bench schedule
+2024-05-23 14:39:07,990 INFO /usr/local/bin/bench watch
+2024-05-23 14:39:08,012 INFO /usr/local/bin/bench serve --port 8000
+2024-05-23 14:39:08,049 INFO /usr/local/bin/bench worker
+2024-05-23 18:00:02,330 INFO /usr/local/bin/bench --verbose --site all backup
+2024-05-24 12:00:02,275 INFO /usr/local/bin/bench --verbose --site all backup
+2024-05-24 18:00:02,151 INFO /usr/local/bin/bench --verbose --site all backup
+2024-05-28 16:19:17,188 INFO /usr/local/bin/bench start
+2024-05-28 16:19:18,095 INFO /usr/local/bin/bench serve --port 8000
+2024-05-28 16:19:18,098 INFO /usr/local/bin/bench schedule
+2024-05-28 16:19:18,105 INFO /usr/local/bin/bench worker
+2024-05-28 16:19:18,109 INFO /usr/local/bin/bench watch
+2024-05-28 16:19:37,741 INFO /usr/local/bin/bench start
+2024-05-28 16:19:38,825 INFO /usr/local/bin/bench schedule
+2024-05-28 16:19:38,840 INFO /usr/local/bin/bench worker
+2024-05-28 16:19:38,848 INFO /usr/local/bin/bench serve --port 8000
+2024-05-28 16:19:38,854 INFO /usr/local/bin/bench watch
+2024-06-05 14:24:59,169 INFO /usr/local/bin/bench start
+2024-06-05 14:25:00,209 INFO /usr/local/bin/bench schedule
+2024-06-05 14:25:00,213 INFO /usr/local/bin/bench serve --port 8000
+2024-06-05 14:25:00,217 INFO /usr/local/bin/bench watch
+2024-06-05 14:25:00,243 INFO /usr/local/bin/bench worker
+2024-06-05 14:25:40,459 INFO /usr/local/bin/bench start
+2024-06-05 14:25:41,075 INFO /usr/local/bin/bench serve --port 8000
+2024-06-05 14:25:41,081 INFO /usr/local/bin/bench schedule
+2024-06-05 14:25:41,082 INFO /usr/local/bin/bench watch
+2024-06-05 14:25:41,110 INFO /usr/local/bin/bench worker
+2024-06-05 17:37:34,183 INFO /usr/local/bin/bench start
+2024-06-05 17:37:34,706 INFO /usr/local/bin/bench schedule
+2024-06-05 17:37:34,711 INFO /usr/local/bin/bench serve --port 8000
+2024-06-05 17:37:34,761 INFO /usr/local/bin/bench worker
+2024-06-05 17:37:34,818 INFO /usr/local/bin/bench watch
+2024-06-05 18:00:01,780 INFO /usr/local/bin/bench --verbose --site all backup
+2024-06-06 12:06:46,626 INFO /usr/local/bin/bench start
+2024-06-06 12:06:47,474 INFO /usr/local/bin/bench watch
+2024-06-06 12:06:47,476 INFO /usr/local/bin/bench serve --port 8000
+2024-06-06 12:06:47,479 INFO /usr/local/bin/bench worker
+2024-06-06 12:06:47,546 INFO /usr/local/bin/bench schedule
+2024-06-06 12:07:18,012 INFO /usr/local/bin/bench start
+2024-06-06 12:07:18,514 INFO /usr/local/bin/bench worker
+2024-06-06 12:07:18,514 INFO /usr/local/bin/bench schedule
+2024-06-06 12:07:18,525 INFO /usr/local/bin/bench watch
+2024-06-06 12:07:18,556 INFO /usr/local/bin/bench serve --port 8000
+2024-06-06 17:03:09,810 INFO /usr/local/bin/bench start
+2024-06-06 17:03:10,702 INFO /usr/local/bin/bench serve --port 8000
+2024-06-06 17:03:10,809 INFO /usr/local/bin/bench schedule
+2024-06-06 17:03:10,809 INFO /usr/local/bin/bench watch
+2024-06-06 17:03:10,825 INFO /usr/local/bin/bench worker
+2024-06-07 12:23:27,672 INFO /usr/local/bin/bench start
+2024-06-07 12:23:28,090 INFO /usr/local/bin/bench serve --port 8000
+2024-06-07 12:23:28,091 INFO /usr/local/bin/bench watch
+2024-06-07 12:23:28,094 INFO /usr/local/bin/bench worker
+2024-06-07 12:23:28,115 INFO /usr/local/bin/bench schedule
+2024-06-07 12:23:43,278 INFO /usr/local/bin/bench start
+2024-06-07 12:23:43,737 INFO /usr/local/bin/bench schedule
+2024-06-07 12:23:43,744 INFO /usr/local/bin/bench serve --port 8000
+2024-06-07 12:23:43,747 INFO /usr/local/bin/bench watch
+2024-06-07 12:23:43,761 INFO /usr/local/bin/bench worker
+2024-06-07 16:10:27,406 INFO /usr/local/bin/bench start
+2024-06-07 16:10:28,683 INFO /usr/local/bin/bench serve --port 8000
+2024-06-07 16:10:28,712 INFO /usr/local/bin/bench watch
+2024-06-07 16:10:28,835 INFO /usr/local/bin/bench schedule
+2024-06-07 16:10:28,890 INFO /usr/local/bin/bench worker
+2024-06-08 12:14:22,415 INFO /usr/local/bin/bench start
+2024-06-08 12:14:22,964 INFO /usr/local/bin/bench serve --port 8000
+2024-06-08 12:14:22,966 INFO /usr/local/bin/bench watch
+2024-06-08 12:14:22,982 INFO /usr/local/bin/bench worker
+2024-06-08 12:14:23,010 INFO /usr/local/bin/bench schedule
+2024-06-08 12:14:38,261 INFO /usr/local/bin/bench start
+2024-06-08 12:14:38,823 INFO /usr/local/bin/bench watch
+2024-06-08 12:14:38,827 INFO /usr/local/bin/bench serve --port 8000
+2024-06-08 12:14:38,832 INFO /usr/local/bin/bench schedule
+2024-06-08 12:14:38,833 INFO /usr/local/bin/bench worker
+2024-06-08 18:00:02,134 INFO /usr/local/bin/bench --verbose --site all backup
+2024-06-10 15:12:08,653 INFO /usr/local/bin/bench start
+2024-06-10 15:12:09,793 INFO /usr/local/bin/bench serve --port 8000
+2024-06-10 15:12:09,798 INFO /usr/local/bin/bench schedule
+2024-06-10 15:12:09,807 INFO /usr/local/bin/bench watch
+2024-06-10 15:12:09,808 INFO /usr/local/bin/bench worker
+2024-06-10 18:00:02,257 INFO /usr/local/bin/bench --verbose --site all backup
+2024-06-11 12:22:56,052 INFO /usr/local/bin/bench start
+2024-06-11 12:22:57,006 INFO /usr/local/bin/bench watch
+2024-06-11 12:22:57,019 INFO /usr/local/bin/bench serve --port 8000
+2024-06-11 12:22:57,030 INFO /usr/local/bin/bench worker
+2024-06-11 12:22:57,038 INFO /usr/local/bin/bench schedule
+2024-06-11 14:24:18,129 INFO /usr/local/bin/bench start
+2024-06-11 14:24:18,624 INFO /usr/local/bin/bench serve --port 8000
+2024-06-11 14:24:18,652 INFO /usr/local/bin/bench schedule
+2024-06-11 14:24:18,673 INFO /usr/local/bin/bench watch
+2024-06-11 14:24:18,679 INFO /usr/local/bin/bench worker
+2024-06-11 18:00:01,597 INFO /usr/local/bin/bench --verbose --site all backup
+2024-06-12 15:02:38,382 INFO /usr/local/bin/bench start
+2024-06-12 15:02:38,956 INFO /usr/local/bin/bench worker
+2024-06-12 15:02:38,956 INFO /usr/local/bin/bench serve --port 8000
+2024-06-12 15:02:38,965 INFO /usr/local/bin/bench schedule
+2024-06-12 15:02:38,976 INFO /usr/local/bin/bench watch
+2024-06-12 18:00:02,560 INFO /usr/local/bin/bench --verbose --site all backup
+2024-06-13 16:57:15,592 INFO /usr/local/bin/bench start
+2024-06-13 16:57:16,019 INFO /usr/local/bin/bench serve --port 8000
+2024-06-13 16:57:16,020 INFO /usr/local/bin/bench worker
+2024-06-13 16:57:16,032 INFO /usr/local/bin/bench watch
+2024-06-13 16:57:16,049 INFO /usr/local/bin/bench schedule
+2024-06-13 18:00:02,520 INFO /usr/local/bin/bench --verbose --site all backup
+2024-06-13 18:01:39,610 INFO /usr/local/bin/bench start
+2024-06-13 18:01:40,433 INFO /usr/local/bin/bench schedule
+2024-06-13 18:01:40,462 INFO /usr/local/bin/bench worker
+2024-06-13 18:01:40,490 INFO /usr/local/bin/bench serve --port 8000
+2024-06-13 18:01:40,495 INFO /usr/local/bin/bench watch
+2024-06-13 18:05:26,217 INFO /usr/local/bin/bench setup requirements
+2024-06-13 18:05:26,386 DEBUG /mnt/d/hippocloud/erp/manufacturing_of_erp/manufacturing/frappe-bench/env/bin/python -m pip install --quiet --upgrade pip
+2024-06-13 18:05:47,831 LOG Installing frappe
+2024-06-13 18:05:47,837 DEBUG cd /mnt/d/hippocloud/erp/manufacturing_of_erp/manufacturing/frappe-bench && /mnt/d/hippocloud/erp/manufacturing_of_erp/manufacturing/frappe-bench/env/bin/python -m pip install --quiet --upgrade -e /mnt/d/hippocloud/erp/manufacturing_of_erp/manufacturing/frappe-bench/apps/frappe 
+2024-06-13 18:06:45,637 DEBUG cd /mnt/d/hippocloud/erp/manufacturing_of_erp/manufacturing/frappe-bench/apps/frappe && yarn install --check-files
+2024-06-13 18:11:18,848 LOG Installing erpnext
+2024-06-13 18:11:18,855 DEBUG cd /mnt/d/hippocloud/erp/manufacturing_of_erp/manufacturing/frappe-bench && /mnt/d/hippocloud/erp/manufacturing_of_erp/manufacturing/frappe-bench/env/bin/python -m pip install --quiet --upgrade -e /mnt/d/hippocloud/erp/manufacturing_of_erp/manufacturing/frappe-bench/apps/erpnext 
+2024-06-13 18:12:31,797 DEBUG cd /mnt/d/hippocloud/erp/manufacturing_of_erp/manufacturing/frappe-bench/apps/erpnext && yarn install --check-files
+2024-06-13 18:12:32,740 INFO A newer version of bench is available: 5.22.3 → 5.22.6
+2024-06-13 18:13:38,935 INFO /usr/local/bin/bench migrate
+2024-06-13 18:14:06,523 INFO /usr/local/bin/bench --site localhost migrate
+2024-06-13 18:14:46,393 INFO /usr/local/bin/bench start
+2024-06-13 18:14:47,267 INFO /usr/local/bin/bench serve --port 8000
+2024-06-13 18:14:47,271 INFO /usr/local/bin/bench watch
+2024-06-13 18:14:47,271 INFO /usr/local/bin/bench schedule
+2024-06-13 18:14:47,284 INFO /usr/local/bin/bench worker
+2024-06-13 18:15:03,301 INFO /usr/local/bin/bench start
+2024-06-13 18:15:04,011 INFO /usr/local/bin/bench schedule
+2024-06-13 18:15:04,015 INFO /usr/local/bin/bench serve --port 8000
+2024-06-13 18:15:04,022 INFO /usr/local/bin/bench watch
+2024-06-13 18:15:04,073 INFO /usr/local/bin/bench worker
+2024-06-13 18:16:58,551 INFO /usr/local/bin/bench start
+2024-06-13 18:16:59,283 INFO /usr/local/bin/bench worker
+2024-06-13 18:16:59,283 INFO /usr/local/bin/bench serve --port 8000
+2024-06-13 18:16:59,290 INFO /usr/local/bin/bench watch
+2024-06-13 18:16:59,291 INFO /usr/local/bin/bench schedule
+2024-06-13 18:18:13,485 INFO /usr/local/bin/bench start
+2024-06-13 18:18:58,824 INFO /usr/local/bin/bench clear-cache
+2024-06-13 18:19:07,308 INFO /usr/local/bin/bench restart
+2024-06-13 18:19:07,637 WARNING restart failed: Couldn't find supervisorctl in PATH
+2024-06-13 18:19:08,252 INFO A newer version of bench is available: 5.22.3 → 5.22.6
+2024-06-13 18:26:07,981 INFO /usr/local/bin/bench clear-cache
+2024-06-13 18:26:30,072 INFO /usr/local/bin/bench --site localhost clear-cache
+2024-06-13 18:26:56,928 INFO /usr/local/bin/bench restart
+2024-06-13 18:26:57,216 WARNING restart failed: Couldn't find supervisorctl in PATH
+2024-06-13 18:26:57,550 INFO A newer version of bench is available: 5.22.3 → 5.22.6
+2024-06-13 18:27:12,603 INFO /usr/local/bin/bench start
+2024-06-13 18:27:13,294 INFO /usr/local/bin/bench schedule
+2024-06-13 18:27:13,307 INFO /usr/local/bin/bench watch
+2024-06-13 18:27:13,307 INFO /usr/local/bin/bench serve --port 8000
+2024-06-13 18:27:13,385 INFO /usr/local/bin/bench worker
+2024-06-13 18:36:45,926 INFO /usr/local/bin/bench start
+2024-06-13 18:36:46,705 INFO /usr/local/bin/bench schedule
+2024-06-13 18:36:46,723 INFO /usr/local/bin/bench serve --port 8000
+2024-06-13 18:36:46,734 INFO /usr/local/bin/bench worker
+2024-06-13 18:36:46,766 INFO /usr/local/bin/bench watch
+2024-06-13 18:42:24,344 INFO /usr/local/bin/bench start
+2024-06-13 18:42:24,943 INFO /usr/local/bin/bench serve --port 8000
+2024-06-13 18:42:24,944 INFO /usr/local/bin/bench watch
+2024-06-13 18:42:24,964 INFO /usr/local/bin/bench schedule
+2024-06-13 18:42:24,974 INFO /usr/local/bin/bench worker
+2024-06-14 14:16:46,902 INFO /usr/local/bin/bench start
+2024-06-14 14:16:48,192 INFO /usr/local/bin/bench schedule
+2024-06-14 14:16:48,192 INFO /usr/local/bin/bench serve --port 8000
+2024-06-14 14:16:48,192 INFO /usr/local/bin/bench watch
+2024-06-14 14:16:48,275 INFO /usr/local/bin/bench worker
+2024-06-14 14:23:53,714 INFO /usr/local/bin/bench start
+2024-06-14 14:23:54,628 INFO /usr/local/bin/bench schedule
+2024-06-14 14:23:54,628 INFO /usr/local/bin/bench serve --port 8000
+2024-06-14 14:23:54,636 INFO /usr/local/bin/bench watch
+2024-06-14 14:23:54,673 INFO /usr/local/bin/bench worker
+2024-06-14 14:31:35,925 INFO /usr/local/bin/bench start
+2024-06-14 14:31:37,000 INFO /usr/local/bin/bench watch
+2024-06-14 14:31:37,012 INFO /usr/local/bin/bench schedule
+2024-06-14 14:31:37,017 INFO /usr/local/bin/bench serve --port 8000
+2024-06-14 14:31:37,037 INFO /usr/local/bin/bench worker
+2024-06-14 14:36:31,687 INFO /usr/local/bin/bench --site localhost clear-cache
+2024-06-14 14:36:51,278 INFO /usr/local/bin/bench start
+2024-06-14 14:36:51,940 INFO /usr/local/bin/bench serve --port 8000
+2024-06-14 14:36:51,952 INFO /usr/local/bin/bench watch
+2024-06-14 14:36:51,984 INFO /usr/local/bin/bench worker
+2024-06-14 14:36:52,006 INFO /usr/local/bin/bench schedule
+2024-06-14 14:38:49,022 INFO /usr/local/bin/bench start
+2024-06-14 14:39:09,273 INFO /usr/local/bin/bench start
+2024-06-14 14:40:30,505 INFO /usr/local/bin/bench start
+2024-06-14 14:54:46,580 INFO /usr/local/bin/bench start
+2024-06-14 14:54:47,657 INFO /usr/local/bin/bench serve --port 8000
+2024-06-14 14:54:47,658 INFO /usr/local/bin/bench worker
+2024-06-14 14:54:47,658 INFO /usr/local/bin/bench watch
+2024-06-14 14:54:47,721 INFO /usr/local/bin/bench schedule
