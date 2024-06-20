@@ -309,3 +309,241 @@
 2024-06-14 14:54:47,658 INFO /usr/local/bin/bench worker
 2024-06-14 14:54:47,658 INFO /usr/local/bin/bench watch
 2024-06-14 14:54:47,721 INFO /usr/local/bin/bench schedule
+2024-06-14 16:42:59,246 INFO /usr/local/bin/bench start
+2024-06-14 16:43:00,335 INFO /usr/local/bin/bench watch
+2024-06-14 16:43:00,339 INFO /usr/local/bin/bench serve --port 8000
+2024-06-14 16:43:00,375 INFO /usr/local/bin/bench schedule
+2024-06-14 16:43:00,396 INFO /usr/local/bin/bench worker
+2024-06-14 16:43:38,391 INFO /usr/local/bin/bench start
+2024-06-14 16:43:39,298 INFO /usr/local/bin/bench serve --port 8000
+2024-06-14 16:43:39,321 INFO /usr/local/bin/bench worker
+2024-06-14 16:43:39,325 INFO /usr/local/bin/bench watch
+2024-06-14 16:43:39,326 INFO /usr/local/bin/bench schedule
+2024-06-14 17:29:06,705 INFO /usr/local/bin/bench start
+2024-06-14 17:29:07,588 INFO /usr/local/bin/bench worker
+2024-06-14 17:29:07,600 INFO /usr/local/bin/bench watch
+2024-06-14 17:29:07,640 INFO /usr/local/bin/bench schedule
+2024-06-14 17:29:07,661 INFO /usr/local/bin/bench serve --port 8000
+2024-06-14 17:32:26,900 INFO /usr/local/bin/bench start
+2024-06-14 17:32:27,588 INFO /usr/local/bin/bench watch
+2024-06-14 17:32:27,655 INFO /usr/local/bin/bench worker
+2024-06-14 17:32:27,671 INFO /usr/local/bin/bench serve --port 8000
+2024-06-14 17:32:27,687 INFO /usr/local/bin/bench schedule
+2024-06-14 17:51:40,778 INFO /usr/local/bin/bench log
+2024-06-14 18:00:01,506 INFO /usr/local/bin/bench --verbose --site all backup
+2024-06-14 18:13:46,033 INFO /usr/local/bin/bench start
+2024-06-14 18:13:47,814 INFO /usr/local/bin/bench schedule
+2024-06-14 18:13:47,814 INFO /usr/local/bin/bench watch
+2024-06-14 18:13:47,858 INFO /usr/local/bin/bench serve --port 8000
+2024-06-14 18:13:48,162 INFO /usr/local/bin/bench worker
+2024-06-14 18:16:26,349 INFO /usr/local/bin/bench start
+2024-06-14 18:16:27,134 INFO /usr/local/bin/bench watch
+2024-06-14 18:16:27,142 INFO /usr/local/bin/bench serve --port 8000
+2024-06-14 18:16:27,151 INFO /usr/local/bin/bench schedule
+2024-06-14 18:16:27,193 INFO /usr/local/bin/bench worker
+2024-06-17 12:50:51,024 INFO /usr/local/bin/bench start
+2024-06-17 12:50:51,726 INFO /usr/local/bin/bench watch
+2024-06-17 12:50:51,726 INFO /usr/local/bin/bench serve --port 8000
+2024-06-17 12:50:51,727 INFO /usr/local/bin/bench worker
+2024-06-17 12:50:51,749 INFO /usr/local/bin/bench schedule
+2024-06-17 12:51:08,238 INFO /usr/local/bin/bench start
+2024-06-17 12:51:08,888 INFO /usr/local/bin/bench serve --port 8000
+2024-06-17 12:51:08,888 INFO /usr/local/bin/bench watch
+2024-06-17 12:51:08,901 INFO /usr/local/bin/bench schedule
+2024-06-17 12:51:08,936 INFO /usr/local/bin/bench worker
+2024-06-17 12:54:57,676 INFO /usr/local/bin/bench start
+2024-06-17 12:54:58,262 INFO /usr/local/bin/bench serve --port 8000
+2024-06-17 12:54:58,285 INFO /usr/local/bin/bench schedule
+2024-06-17 12:54:58,290 INFO /usr/local/bin/bench watch
+2024-06-17 12:54:58,301 INFO /usr/local/bin/bench worker
+2024-06-18 12:46:22,890 INFO /usr/local/bin/bench start
+2024-06-18 12:46:23,687 INFO /usr/local/bin/bench watch
+2024-06-18 12:46:23,690 INFO /usr/local/bin/bench serve --port 8000
+2024-06-18 12:46:23,707 INFO /usr/local/bin/bench schedule
+2024-06-18 12:46:23,716 INFO /usr/local/bin/bench worker
+2024-06-18 14:04:59,647 INFO /usr/local/bin/bench start
+2024-06-18 14:05:00,564 INFO /usr/local/bin/bench watch
+2024-06-18 14:05:00,564 INFO /usr/local/bin/bench serve --port 8000
+2024-06-18 14:05:00,564 INFO /usr/local/bin/bench schedule
+2024-06-18 14:05:00,634 INFO /usr/local/bin/bench worker
+2024-06-18 14:08:16,626 INFO /usr/local/bin/bench start
+2024-06-18 14:08:35,341 INFO /usr/local/bin/bench start
+2024-06-18 14:11:04,504 INFO /usr/local/bin/bench start
+2024-06-18 14:13:08,157 INFO /usr/local/bin/bench start
+2024-06-18 14:13:26,476 INFO /usr/local/bin/bench start
+2024-06-18 14:16:15,041 INFO /usr/local/bin/bench start
+2024-06-18 14:16:15,464 INFO /usr/local/bin/bench watch
+2024-06-18 14:16:15,464 INFO /usr/local/bin/bench serve --port 8000 --bind 0.0.0.0
+2024-06-18 14:16:15,470 INFO /usr/local/bin/bench schedule
+2024-06-18 14:16:15,490 INFO /usr/local/bin/bench worker
+2024-06-18 14:17:25,002 INFO /usr/local/bin/bench start
+2024-06-18 14:17:25,412 INFO /usr/local/bin/bench serve --port 8000 --bind 0.0.0.0
+2024-06-18 14:17:25,412 INFO /usr/local/bin/bench watch
+2024-06-18 14:17:25,416 INFO /usr/local/bin/bench worker
+2024-06-18 14:17:25,428 INFO /usr/local/bin/bench schedule
+2024-06-18 14:18:08,116 INFO /usr/local/bin/bench start
+2024-06-18 14:18:08,520 INFO /usr/local/bin/bench serve --port 8000 --bind 0.0.0.0
+2024-06-18 14:18:08,522 INFO /usr/local/bin/bench watch
+2024-06-18 14:18:08,525 INFO /usr/local/bin/bench schedule
+2024-06-18 14:18:08,530 INFO /usr/local/bin/bench worker
+2024-06-18 14:19:31,205 INFO /usr/local/bin/bench --site localhost clear-cache
+2024-06-18 14:19:44,587 INFO /usr/local/bin/bench start
+2024-06-18 14:19:45,111 INFO /usr/local/bin/bench watch
+2024-06-18 14:19:45,115 INFO /usr/local/bin/bench serve --port 8000 --bind 0.0.0.0
+2024-06-18 14:19:45,119 INFO /usr/local/bin/bench schedule
+2024-06-18 14:19:45,128 INFO /usr/local/bin/bench worker
+2024-06-18 14:20:08,969 INFO /usr/local/bin/bench start
+2024-06-18 14:20:09,320 INFO /usr/local/bin/bench schedule
+2024-06-18 14:20:09,323 INFO /usr/local/bin/bench serve --port 8000 --bind 0.0.0.0
+2024-06-18 14:20:09,328 INFO /usr/local/bin/bench watch
+2024-06-18 14:20:09,333 INFO /usr/local/bin/bench worker
+2024-06-18 14:21:14,735 INFO /usr/local/bin/bench serve --help
+2024-06-18 14:21:34,780 INFO /usr/local/bin/bench serve
+2024-06-18 14:24:14,395 INFO /usr/local/bin/bench update
+2024-06-18 14:24:17,096 WARNING shallow_clone is set in your bench config.
+However without passing the --reset flag, your repositories will be unshallowed.
+To avoid this, cancel this operation and run `bench update --reset`.
+
+Consider the consequences of `git reset --hard` on your apps before you run that.
+To avoid seeing this warning, set shallow_clone to false in your common_site_config.json
+		
+2024-06-18 14:25:07,584 DEBUG cd /mnt/d/hippocloud/erp/manufacturing_of_erp/manufacturing/frappe-bench/apps/frappe && git fetch upstream --unshallow
+2024-06-18 14:27:32,799 LOG pulling frappe
+2024-06-18 14:27:32,800 DEBUG cd /mnt/d/hippocloud/erp/manufacturing_of_erp/manufacturing/frappe-bench/apps/frappe && git pull  upstream version-15
+2024-06-18 14:27:43,935 DEBUG cd /mnt/d/hippocloud/erp/manufacturing_of_erp/manufacturing/frappe-bench/apps/frappe && find . -name "*.pyc" -delete
+2024-06-18 14:27:53,443 DEBUG cd /mnt/d/hippocloud/erp/manufacturing_of_erp/manufacturing/frappe-bench/apps/erpnext && git fetch upstream --unshallow
+2024-06-18 14:34:00,275 LOG pulling erpnext
+2024-06-18 14:34:00,275 DEBUG cd /mnt/d/hippocloud/erp/manufacturing_of_erp/manufacturing/frappe-bench/apps/erpnext && git pull  upstream main
+2024-06-18 14:34:01,278 WARNING cd /mnt/d/hippocloud/erp/manufacturing_of_erp/manufacturing/frappe-bench/apps/erpnext && git pull  upstream main executed with exit code 1
+2024-06-18 14:34:01,278 WARNING /usr/local/bin/bench update executed with exit code 1
+2024-06-18 14:34:01,631 INFO A newer version of bench is available: 5.22.3 → 5.22.6
+2024-06-18 14:34:19,662 INFO /usr/local/bin/bench start
+2024-06-18 14:34:20,106 INFO /usr/local/bin/bench watch
+2024-06-18 14:34:20,106 INFO /usr/local/bin/bench schedule
+2024-06-18 14:34:20,113 INFO /usr/local/bin/bench serve --port 8000 --bind 0.0.0.0
+2024-06-18 14:34:20,130 INFO /usr/local/bin/bench worker
+2024-06-18 14:34:35,501 INFO /usr/local/bin/bench start
+2024-06-18 14:34:36,107 INFO /usr/local/bin/bench serve --port 8000 --bind 0.0.0.0
+2024-06-18 14:34:36,123 INFO /usr/local/bin/bench watch
+2024-06-18 14:34:36,131 INFO /usr/local/bin/bench schedule
+2024-06-18 14:34:36,141 INFO /usr/local/bin/bench worker
+2024-06-18 15:38:11,747 INFO /usr/local/bin/bench start
+2024-06-18 15:38:12,431 INFO /usr/local/bin/bench watch
+2024-06-18 15:38:12,432 INFO /usr/local/bin/bench serve --port 8000 --bind 0.0.0.0
+2024-06-18 15:38:12,439 INFO /usr/local/bin/bench schedule
+2024-06-18 15:38:12,446 INFO /usr/local/bin/bench worker
+2024-06-18 15:39:09,993 INFO /usr/local/bin/bench serve --host 0.0.0.0 --port 8000
+2024-06-18 15:39:54,887 INFO /usr/local/bin/bench serve -host 0.0.0.0 --port 8000
+2024-06-18 15:40:03,945 INFO /usr/local/bin/bench serve --host 0.0.0.0 --port 8000
+2024-06-18 15:41:21,817 INFO /usr/local/bin/bench start
+2024-06-18 15:41:22,431 INFO /usr/local/bin/bench schedule
+2024-06-18 15:41:22,437 INFO /usr/local/bin/bench serve --port 8000
+2024-06-18 15:41:22,443 INFO /usr/local/bin/bench watch
+2024-06-18 15:41:22,463 INFO /usr/local/bin/bench worker
+2024-06-18 15:47:01,105 INFO /usr/local/bin/bench start
+2024-06-18 15:47:01,678 INFO /usr/local/bin/bench watch
+2024-06-18 15:47:01,681 INFO /usr/local/bin/bench serve --port 8000
+2024-06-18 15:47:01,684 INFO /usr/local/bin/bench schedule
+2024-06-18 15:47:01,713 INFO /usr/local/bin/bench worker
+2024-06-18 15:49:51,255 INFO /usr/local/bin/bench serve
+2024-06-18 15:52:10,615 INFO /usr/local/bin/bench update
+2024-06-18 15:52:15,271 WARNING shallow_clone is set in your bench config.
+However without passing the --reset flag, your repositories will be unshallowed.
+To avoid this, cancel this operation and run `bench update --reset`.
+
+Consider the consequences of `git reset --hard` on your apps before you run that.
+To avoid seeing this warning, set shallow_clone to false in your common_site_config.json
+		
+2024-06-18 15:52:59,132 DEBUG cd /mnt/d/hippocloud/erp/manufacturing_of_erp/manufacturing/frappe-bench/apps/frappe && git fetch upstream --unshallow
+2024-06-18 15:53:20,941 LOG pulling frappe
+2024-06-18 15:53:20,942 DEBUG cd /mnt/d/hippocloud/erp/manufacturing_of_erp/manufacturing/frappe-bench/apps/frappe && git pull  upstream version-15
+2024-06-18 15:53:29,287 DEBUG cd /mnt/d/hippocloud/erp/manufacturing_of_erp/manufacturing/frappe-bench/apps/frappe && find . -name "*.pyc" -delete
+2024-06-18 15:53:36,779 LOG pulling erpnext
+2024-06-18 15:53:36,779 DEBUG cd /mnt/d/hippocloud/erp/manufacturing_of_erp/manufacturing/frappe-bench/apps/erpnext && git pull  upstream main
+2024-06-18 15:53:38,078 WARNING cd /mnt/d/hippocloud/erp/manufacturing_of_erp/manufacturing/frappe-bench/apps/erpnext && git pull  upstream main executed with exit code 1
+2024-06-18 15:53:38,078 WARNING /usr/local/bin/bench update executed with exit code 1
+2024-06-18 15:53:38,374 INFO A newer version of bench is available: 5.22.3 → 5.22.6
+2024-06-18 15:54:09,414 INFO /usr/local/bin/bench --site localhost migrate
+2024-06-18 15:55:15,562 INFO /usr/local/bin/bench start
+2024-06-18 15:55:16,259 INFO /usr/local/bin/bench watch
+2024-06-18 15:55:16,262 INFO /usr/local/bin/bench schedule
+2024-06-18 15:55:16,266 INFO /usr/local/bin/bench serve --port 8000
+2024-06-18 15:55:16,290 INFO /usr/local/bin/bench worker
+2024-06-18 15:55:30,046 INFO /usr/local/bin/bench start
+2024-06-18 15:55:30,663 INFO /usr/local/bin/bench watch
+2024-06-18 15:55:30,665 INFO /usr/local/bin/bench serve --port 8000
+2024-06-18 15:55:30,671 INFO /usr/local/bin/bench schedule
+2024-06-18 15:55:30,702 INFO /usr/local/bin/bench worker
+2024-06-18 15:57:19,899 INFO /usr/local/bin/bench --site localhost migrate
+2024-06-18 16:06:05,612 INFO /usr/local/bin/bench start
+2024-06-18 16:06:06,241 INFO /usr/local/bin/bench watch
+2024-06-18 16:06:06,249 INFO /usr/local/bin/bench serve --port 8000
+2024-06-18 16:06:06,249 INFO /usr/local/bin/bench schedule
+2024-06-18 16:06:06,278 INFO /usr/local/bin/bench worker
+2024-06-18 16:07:24,474 INFO /usr/local/bin/bench start
+2024-06-18 16:07:25,142 INFO /usr/local/bin/bench watch
+2024-06-18 16:07:25,145 INFO /usr/local/bin/bench serve --port 8000
+2024-06-18 16:07:25,178 INFO /usr/local/bin/bench schedule
+2024-06-18 16:07:25,202 INFO /usr/local/bin/bench worker
+2024-06-18 16:10:06,384 INFO /usr/local/bin/bench start
+2024-06-18 16:10:07,198 INFO /usr/local/bin/bench serve --port 8000
+2024-06-18 16:10:07,220 INFO /usr/local/bin/bench watch
+2024-06-18 16:10:07,221 INFO /usr/local/bin/bench schedule
+2024-06-18 16:10:07,229 INFO /usr/local/bin/bench worker
+2024-06-18 16:10:50,662 INFO /usr/local/bin/bench --site localhost clear-cache
+2024-06-18 16:11:44,561 INFO /usr/local/bin/bench start
+2024-06-18 16:11:45,384 INFO /usr/local/bin/bench watch
+2024-06-18 16:11:45,390 INFO /usr/local/bin/bench serve --port 8000
+2024-06-18 16:11:45,406 INFO /usr/local/bin/bench schedule
+2024-06-18 16:11:45,430 INFO /usr/local/bin/bench worker
+2024-06-18 16:13:34,287 INFO /usr/local/bin/bench use localhost
+2024-06-18 16:13:46,372 INFO /usr/local/bin/bench start
+2024-06-18 16:13:46,713 INFO /usr/local/bin/bench schedule
+2024-06-18 16:13:46,713 INFO /usr/local/bin/bench watch
+2024-06-18 16:13:46,740 INFO /usr/local/bin/bench worker
+2024-06-18 16:13:46,750 INFO /usr/local/bin/bench serve --port 8000
+2024-06-18 16:15:53,239 INFO /usr/local/bin/bench start
+2024-06-18 16:15:53,736 INFO /usr/local/bin/bench serve --port 8000
+2024-06-18 16:15:53,744 INFO /usr/local/bin/bench watch
+2024-06-18 16:15:53,753 INFO /usr/local/bin/bench schedule
+2024-06-18 16:15:53,795 INFO /usr/local/bin/bench worker
+2024-06-18 16:26:00,689 INFO /usr/local/bin/bench use localhost
+2024-06-18 16:26:10,373 INFO /usr/local/bin/bench start
+2024-06-18 16:26:10,894 INFO /usr/local/bin/bench watch
+2024-06-18 16:26:10,907 INFO /usr/local/bin/bench schedule
+2024-06-18 16:26:10,925 INFO /usr/local/bin/bench worker
+2024-06-18 16:26:10,937 INFO /usr/local/bin/bench serve --port 8000
+2024-06-18 16:30:05,710 INFO /usr/local/bin/bench start
+2024-06-18 16:30:06,032 INFO /usr/local/bin/bench serve --port 8000
+2024-06-18 16:30:06,035 INFO /usr/local/bin/bench schedule
+2024-06-18 16:30:06,040 INFO /usr/local/bin/bench worker
+2024-06-18 16:30:06,056 INFO /usr/local/bin/bench watch
+2024-06-18 16:54:03,984 INFO /usr/local/bin/bench start
+2024-06-18 16:54:04,598 INFO /usr/local/bin/bench serve --port 8000
+2024-06-18 16:54:04,598 INFO /usr/local/bin/bench watch
+2024-06-18 16:54:04,598 INFO /usr/local/bin/bench schedule
+2024-06-18 16:54:04,598 INFO /usr/local/bin/bench worker
+2024-06-18 18:00:02,321 INFO /usr/local/bin/bench --verbose --site all backup
+2024-06-19 10:52:52,873 INFO /usr/local/bin/bench start
+2024-06-19 10:52:53,846 INFO /usr/local/bin/bench serve --port 8000
+2024-06-19 10:52:53,848 INFO /usr/local/bin/bench watch
+2024-06-19 10:52:53,856 INFO /usr/local/bin/bench worker
+2024-06-19 10:52:53,864 INFO /usr/local/bin/bench schedule
+2024-06-19 12:00:02,892 INFO /usr/local/bin/bench --verbose --site all backup
+2024-06-19 14:24:31,258 INFO /usr/local/bin/bench start
+2024-06-19 14:24:31,934 INFO /usr/local/bin/bench serve --port 8000
+2024-06-19 14:24:31,955 INFO /usr/local/bin/bench schedule
+2024-06-19 14:24:31,980 INFO /usr/local/bin/bench worker
+2024-06-19 14:24:32,029 INFO /usr/local/bin/bench watch
+2024-06-19 18:00:01,696 INFO /usr/local/bin/bench --verbose --site all backup
+2024-06-20 11:04:44,482 INFO /usr/local/bin/bench start
+2024-06-20 11:04:45,271 INFO /usr/local/bin/bench watch
+2024-06-20 11:04:45,276 INFO /usr/local/bin/bench serve --port 8000
+2024-06-20 11:04:45,308 INFO /usr/local/bin/bench schedule
+2024-06-20 11:04:45,345 INFO /usr/local/bin/bench worker
+2024-06-20 12:00:02,335 INFO /usr/local/bin/bench --verbose --site all backup
+2024-06-20 12:44:07,610 INFO /usr/local/bin/bench start
+2024-06-20 12:44:08,155 INFO /usr/local/bin/bench serve --port 8000
+2024-06-20 12:44:08,155 INFO /usr/local/bin/bench schedule
+2024-06-20 12:44:08,191 INFO /usr/local/bin/bench watch
+2024-06-20 12:44:08,211 INFO /usr/local/bin/bench worker

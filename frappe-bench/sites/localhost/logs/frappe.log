@@ -7,3 +7,288 @@ Form Dict: {'doc': '{"docstatus":0,"doctype":"Item Alternative","name":"new-item
 2024-05-18 16:26:06,126 ERROR frappe New Exception collected in error log
 Site: localhost
 Form Dict: {'doc': '{"docstatus":0,"doctype":"Item Alternative","name":"new-item-alternative-lnhgmtdmhl","__islocal":1,"__unsaved":1,"owner":"nagam.svb@gmail.com","item_code":"deskpc-001","item_name":"Desktop PC"}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2024-06-18 15:51:01,360 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: localhost
+Form Dict: {}
+2024-06-18 15:51:01,363 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: localhost
+Form Dict: {}
+2024-06-18 15:51:01,364 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: localhost
+Form Dict: {}
+2024-06-18 15:51:01,366 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: localhost
+Form Dict: {}
+2024-06-18 15:51:01,367 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: localhost
+Form Dict: {}
+2024-06-18 15:51:01,368 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: localhost
+Form Dict: {}
+2024-06-18 15:51:01,370 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: localhost
+Form Dict: {}
+2024-06-18 15:51:01,371 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: localhost
+Form Dict: {}
+2024-06-18 15:51:01,372 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: localhost
+Form Dict: {}
+2024-06-18 15:51:01,373 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: localhost
+Form Dict: {}
+2024-06-18 15:51:01,375 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: localhost
+Form Dict: {}
+2024-06-18 15:51:01,376 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: localhost
+Form Dict: {}
+2024-06-18 15:51:01,378 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: localhost
+Form Dict: {}
+2024-06-18 15:51:01,380 ERROR frappe New Exception collected in error log
+Site: localhost
+Form Dict: {}
+2024-06-18 15:51:02,788 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: localhost
+Form Dict: {}
+2024-06-18 15:51:02,790 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: localhost
+Form Dict: {}
+2024-06-18 15:51:02,792 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: localhost
+Form Dict: {}
+2024-06-18 15:51:02,794 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: localhost
+Form Dict: {}
+2024-06-18 15:51:02,795 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: localhost
+Form Dict: {}
+2024-06-18 15:51:02,797 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: localhost
+Form Dict: {}
+2024-06-18 15:51:02,800 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: localhost
+Form Dict: {}
+2024-06-18 15:51:02,801 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: localhost
+Form Dict: {}
+2024-06-18 15:51:02,803 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: localhost
+Form Dict: {}
+2024-06-18 15:51:02,804 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: localhost
+Form Dict: {}
+2024-06-18 15:51:02,806 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: localhost
+Form Dict: {}
+2024-06-18 15:51:02,808 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: localhost
+Form Dict: {}
+2024-06-18 15:51:02,811 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: localhost
+Form Dict: {}
+2024-06-18 15:51:02,812 ERROR frappe New Exception collected in error log
+Site: localhost
+Form Dict: {}
+2024-06-18 15:51:04,610 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: localhost
+Form Dict: {}
+2024-06-18 15:51:04,611 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: localhost
+Form Dict: {}
+2024-06-18 15:51:04,613 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: localhost
+Form Dict: {}
+2024-06-18 15:51:04,615 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: localhost
+Form Dict: {}
+2024-06-18 15:51:04,616 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: localhost
+Form Dict: {}
+2024-06-18 15:51:04,618 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: localhost
+Form Dict: {}
+2024-06-18 15:51:04,620 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: localhost
+Form Dict: {}
+2024-06-18 15:51:04,621 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: localhost
+Form Dict: {}
+2024-06-18 15:51:04,623 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: localhost
+Form Dict: {}
+2024-06-18 15:51:04,625 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: localhost
+Form Dict: {}
+2024-06-18 15:51:04,627 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: localhost
+Form Dict: {}
+2024-06-18 15:51:04,628 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: localhost
+Form Dict: {}
+2024-06-18 15:51:04,630 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: localhost
+Form Dict: {}
+2024-06-18 15:51:04,632 ERROR frappe New Exception collected in error log
+Site: localhost
+Form Dict: {}
+2024-06-18 15:51:36,859 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: localhost
+Form Dict: {}
+2024-06-18 15:51:36,860 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: localhost
+Form Dict: {}
+2024-06-18 15:51:36,861 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: localhost
+Form Dict: {}
+2024-06-18 15:51:36,863 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: localhost
+Form Dict: {}
+2024-06-18 15:51:36,864 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: localhost
+Form Dict: {}
+2024-06-18 15:51:36,866 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: localhost
+Form Dict: {}
+2024-06-18 15:51:36,867 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: localhost
+Form Dict: {}
+2024-06-18 15:51:36,869 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: localhost
+Form Dict: {}
+2024-06-18 15:51:36,870 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: localhost
+Form Dict: {}
+2024-06-18 15:51:36,871 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: localhost
+Form Dict: {}
+2024-06-18 15:51:36,873 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: localhost
+Form Dict: {}
+2024-06-18 15:51:36,874 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: localhost
+Form Dict: {}
+2024-06-18 15:51:36,876 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: localhost
+Form Dict: {}
+2024-06-18 15:51:36,877 ERROR frappe New Exception collected in error log
+Site: localhost
+Form Dict: {}
+2024-06-18 15:51:38,192 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: localhost
+Form Dict: {}
+2024-06-18 15:51:38,194 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: localhost
+Form Dict: {}
+2024-06-18 15:51:38,195 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: localhost
+Form Dict: {}
+2024-06-18 15:51:38,197 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: localhost
+Form Dict: {}
+2024-06-18 15:51:38,198 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: localhost
+Form Dict: {}
+2024-06-18 15:51:38,200 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: localhost
+Form Dict: {}
+2024-06-18 15:51:38,202 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: localhost
+Form Dict: {}
+2024-06-18 15:51:38,204 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: localhost
+Form Dict: {}
+2024-06-18 15:51:38,205 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: localhost
+Form Dict: {}
+2024-06-18 15:51:38,207 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: localhost
+Form Dict: {}
+2024-06-18 15:51:38,209 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: localhost
+Form Dict: {}
+2024-06-18 15:51:38,211 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: localhost
+Form Dict: {}
+2024-06-18 15:51:38,213 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: localhost
+Form Dict: {}
+2024-06-18 15:51:38,215 ERROR frappe New Exception collected in error log
+Site: localhost
+Form Dict: {}
+2024-06-18 15:59:53,989 ERROR frappe New Exception collected in error log
+Site: localhost
+Form Dict: {}
+2024-06-18 15:59:55,017 ERROR frappe New Exception collected in error log
+Site: localhost
+Form Dict: {}
+2024-06-18 16:00:04,854 ERROR frappe New Exception collected in error log
+Site: localhost
+Form Dict: {}
+2024-06-18 16:00:05,442 ERROR frappe New Exception collected in error log
+Site: localhost
+Form Dict: {}
+2024-06-18 16:08:38,117 ERROR frappe New Exception collected in error log
+Site: localhost
+Form Dict: {}
+2024-06-18 16:08:38,593 ERROR frappe New Exception collected in error log
+Site: localhost
+Form Dict: {}
+2024-06-18 16:08:39,098 ERROR frappe New Exception collected in error log
+Site: localhost
+Form Dict: {}
+2024-06-18 16:14:41,280 ERROR frappe New Exception collected in error log
+Site: localhost
+Form Dict: {}
+2024-06-18 16:14:41,280 ERROR frappe New Exception collected in error log
+Site: localhost
+Form Dict: {}
+2024-06-18 16:14:41,281 ERROR frappe New Exception collected in error log
+Site: localhost
+Form Dict: {}
+2024-06-18 16:14:41,281 ERROR frappe New Exception collected in error log
+Site: localhost
+Form Dict: {}
+2024-06-18 16:14:41,929 ERROR frappe New Exception collected in error log
+Site: localhost
+Form Dict: {}
+2024-06-18 16:14:41,929 ERROR frappe New Exception collected in error log
+Site: localhost
+Form Dict: {}
+2024-06-18 16:15:01,648 ERROR frappe New Exception collected in error log
+Site: localhost
+Form Dict: {}
+2024-06-18 16:15:01,648 ERROR frappe New Exception collected in error log
+Site: localhost
+Form Dict: {}
+2024-06-18 16:15:02,789 ERROR frappe New Exception collected in error log
+Site: localhost
+Form Dict: {}
+2024-06-18 16:15:02,789 ERROR frappe New Exception collected in error log
+Site: localhost
+Form Dict: {}
+2024-06-18 16:15:11,983 ERROR frappe New Exception collected in error log
+Site: localhost
+Form Dict: {}
+2024-06-18 16:15:11,983 ERROR frappe New Exception collected in error log
+Site: localhost
+Form Dict: {}
+2024-06-18 16:15:12,489 ERROR frappe New Exception collected in error log
+Site: localhost
+Form Dict: {}
+2024-06-18 16:15:12,489 ERROR frappe New Exception collected in error log
+Site: localhost
+Form Dict: {}
+2024-06-18 16:15:16,621 ERROR frappe New Exception collected in error log
+Site: localhost
+Form Dict: {}
+2024-06-18 16:15:16,621 ERROR frappe New Exception collected in error log
+Site: localhost
+Form Dict: {}
+2024-06-18 16:15:17,263 ERROR frappe New Exception collected in error log
+Site: localhost
+Form Dict: {}
+2024-06-18 16:15:17,263 ERROR frappe New Exception collected in error log
+Site: localhost
+Form Dict: {}
