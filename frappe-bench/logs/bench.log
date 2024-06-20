@@ -547,3 +547,4 @@ To avoid seeing this warning, set shallow_clone to false in your common_site_con
 2024-06-20 12:44:08,155 INFO /usr/local/bin/bench schedule
 2024-06-20 12:44:08,191 INFO /usr/local/bin/bench watch
 2024-06-20 12:44:08,211 INFO /usr/local/bin/bench worker
+2024-06-20 18:00:01,545 INFO /usr/local/bin/bench --verbose --site all backup

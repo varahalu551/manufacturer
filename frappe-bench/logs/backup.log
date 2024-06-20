@@ -340,3 +340,21 @@ Backup Summary for manufacture.local at 2024-06-20 12:00:33.167893
 Config  : ./manufacture.local/private/backups/20240620_120030-manufacture_local-site_config_backup.json 94.0B
 Database: ./manufacture.local/private/backups/20240620_120030-manufacture_local-database.sql.gz         216.3KiB
 Backup for Site manufacture.local has been successfully completed
+set -o pipefail; /usr/bin/mariadb-dump --user=_37931db34a660467 --host=127.0.0.1 --port=3306 --password=********** --single-transaction --quick --lock-tables=false _37931db34a660467 | /usr/bin/gzip >> ./localhost/private/backups/20240620_180008-localhost-database.sql.gz
+
+Backup Summary for localhost at 2024-06-20 18:00:16.651702
+Config  : ./localhost/private/backups/20240620_180008-localhost-site_config_backup.json 94.0B
+Database: ./localhost/private/backups/20240620_180008-localhost-database.sql.gz         890.9KiB
+Backup for Site localhost has been successfully completed
+File ./manufacture.local/private/backups/20240619_120041-manufacture_local-database.sql.gz is older than 24 hours
+File ./manufacture.local/private/backups/20240619_120041-manufacture_local-site_config_backup.json is older than 24 hours
+File ./manufacture.local/private/backups/20240619_180042-manufacture_local-database.sql.gz is recent
+File ./manufacture.local/private/backups/20240619_180042-manufacture_local-site_config_backup.json is recent
+File ./manufacture.local/private/backups/20240620_120030-manufacture_local-database.sql.gz is recent
+File ./manufacture.local/private/backups/20240620_120030-manufacture_local-site_config_backup.json is recent
+set -o pipefail; /usr/bin/mariadb-dump --user=_c4cba48cab6a79e2 --host=127.0.0.1 --port=3306 --password=********** --single-transaction --quick --lock-tables=false _c4cba48cab6a79e2 | /usr/bin/gzip >> ./manufacture.local/private/backups/20240620_180016-manufacture_local-database.sql.gz
+
+Backup Summary for manufacture.local at 2024-06-20 18:00:17.934766
+Config  : ./manufacture.local/private/backups/20240620_180016-manufacture_local-site_config_backup.json 94.0B
+Database: ./manufacture.local/private/backups/20240620_180016-manufacture_local-database.sql.gz         216.3KiB
+Backup for Site manufacture.local has been successfully completed
